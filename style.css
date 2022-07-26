@@ -1,0 +1,29 @@
+.main-bg-color {
+    background-color: #FFF9F4;
+}
+
+.heading-color {
+    color: #FA804C;
+}
+
+.button-color {
+    background-color: #3643BD;
+}
+
+
+.image-bg-color {
+    background-color: #F1F1F1;
+}
+
+.btn-final {
+    text-decoration: none;
+    padding: 15px 19px;
+    background-color: #3643BD;
+    color: #fff;
+    border-radius: 10px;
+    height: 53px;
+}
+
+.another img {
+    height: 100px;
+}
